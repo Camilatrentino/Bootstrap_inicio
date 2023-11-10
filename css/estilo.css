@@ -144,3 +144,12 @@ footer{
     padding-bottom: 1%;
     
 }
+
+.hp{
+    width: 100%;
+}
+
+.menu{
+    position: fixed;
+    width: 100%;
+}
